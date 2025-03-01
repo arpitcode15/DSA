@@ -1,0 +1,48 @@
+# IntelliJ IDEA-related files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Build output
+out/
+target/
+build/
+
+# Logs and temporary files
+logs/
+*.log
+*.swp
+*.tmp
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependency directories
+node_modules/
+vendor/
+
+# IDE/editor-specific files
+.vscode/
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+
+# Package managers
+.yarn/
+.npm/
+.bower_components/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+*.secret
+
+# Cache and generated files
+.cache/
+dist/
+tmp/
